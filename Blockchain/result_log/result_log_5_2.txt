@@ -1,0 +1,5 @@
+
+ count: 1984, run time is 0.01 seconds.
+ count: 2000, run time is 0.43 seconds.
+ count: 2034, run time is 1.55 seconds.
+ count: 2072, run time is 1.75 seconds.

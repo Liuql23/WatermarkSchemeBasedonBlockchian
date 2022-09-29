@@ -1,0 +1,10 @@
+
+ count: 1533, run time is 0.01 seconds.
+ count: 1696, run time is 0.02 seconds.
+ count: 1742, run time is 0.14 seconds.
+ count: 1833, run time is 0.25 seconds.
+ count: 1899, run time is 0.50 seconds.
+ count: 1935, run time is 0.66 seconds.
+ count: 1970, run time is 1.57 seconds.
+ count: 2005, run time is 27.28 seconds.
+ count: 2133, run time is 65.40 seconds.

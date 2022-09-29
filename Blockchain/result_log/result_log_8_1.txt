@@ -1,0 +1,8 @@
+
+ count: 1731, run time is 0.01 seconds.
+ count: 1799, run time is 0.01 seconds.
+ count: 1805, run time is 0.02 seconds.
+ count: 1972, run time is 0.02 seconds.
+ count: 2019, run time is 1.01 seconds.
+ count: 2023, run time is 1.17 seconds.
+ count: 2090, run time is 2.39 seconds.

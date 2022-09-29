@@ -1,0 +1,19 @@
+
+ count: 1337, run time is 0.01 seconds.
+ count: 1422, run time is 0.01 seconds.
+ count: 1482, run time is 0.02 seconds.
+ count: 1594, run time is 0.03 seconds.
+ count: 1617, run time is 0.14 seconds.
+ count: 1716, run time is 0.23 seconds.
+ count: 1734, run time is 1.29 seconds.
+ count: 1761, run time is 2.10 seconds.
+ count: 1780, run time is 3.39 seconds.
+ count: 1799, run time is 10.35 seconds.
+ count: 1830, run time is 17.45 seconds.
+ count: 1833, run time is 42.78 seconds.
+ count: 1866, run time is 42.91 seconds.
+ count: 1892, run time is 83.56 seconds.
+ count: 1918, run time is 172.03 seconds.
+ count: 1937, run time is 468.97 seconds.
+ count: 1942, run time is 802.69 seconds.
+ count: 1948, run time is 892.11 seconds.

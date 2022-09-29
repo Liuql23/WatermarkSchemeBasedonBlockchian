@@ -1,0 +1,7 @@
+
+ count: 1889, run time is 0.01 seconds.
+ count: 1932, run time is 0.07 seconds.
+ count: 1963, run time is 0.43 seconds.
+ count: 1969, run time is 1.21 seconds.
+ count: 2017, run time is 2.51 seconds.
+ count: 2079, run time is 4.99 seconds.

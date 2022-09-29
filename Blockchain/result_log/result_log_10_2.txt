@@ -1,0 +1,11 @@
+
+ count: 1763, run time is 0.01 seconds.
+ count: 1810, run time is 0.01 seconds.
+ count: 1820, run time is 0.84 seconds.
+ count: 1880, run time is 0.91 seconds.
+ count: 1947, run time is 2.04 seconds.
+ count: 1953, run time is 4.29 seconds.
+ count: 1962, run time is 8.36 seconds.
+ count: 2003, run time is 9.22 seconds.
+ count: 2028, run time is 11.17 seconds.
+ count: 2080, run time is 22.41 seconds.
