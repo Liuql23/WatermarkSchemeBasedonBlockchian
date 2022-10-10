@@ -2,7 +2,7 @@
 ## Video watermarking scheme based on DWT and SVT
 This repo provides the implementation of paper “A discrete wavelet transform and singular value decomposition-based digital video watermark method”.
 * MATLAB:.\MinimumDistortionCost\EmbeddedAndExtractMain_clean.m  
-In the folder“.\MinimumDistortionCost”， we list all the data files involved in the this paper.
+In the folder“.\MinimumDistortionCost”， we list all the data files involved in this paper.
 ## Video watermarking scheme based on Blockchian
 This repo provides the implementation of paper “An Efficient Video Watermark Method Using Blockchain”, which is an improved version of paper “A discrete wavelet transform and singular value decomposition-based digital video watermark method”.
 * MATLAB:.\MinimumDistortionCost\EmbeddedAndExtractMain_clean.m
