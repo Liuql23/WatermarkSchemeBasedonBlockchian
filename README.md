@@ -17,4 +17,4 @@ This repo provides the implementation of paper “An Efficient Video Watermark M
 >> Title = {A discrete wavelet transform and singular value decomposition-based digital video watermark method},  
 >> Volume = {85},  
 >> Year = {2020}  
->}
+> }
