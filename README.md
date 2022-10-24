@@ -16,7 +16,8 @@ This repo provides the implementation of paper “An Efficient Video Watermark M
 >> Title = {A discrete wavelet transform and singular value decomposition-based digital video watermark method},  
 >> Volume = {85},  
 >> Year = {2020}  
-> }
+> }  
+
 > @article{liu2022watermark-DWT&SVD-Blockchain,  
 >> Author = {Liu, Qingliang and Yang, Shuguo and Liu, Jing and Xiong, Pengcheng and Shen, Jun},  
 >> Journal = {Knowledge-Based Systems},   
