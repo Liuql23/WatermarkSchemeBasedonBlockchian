@@ -16,6 +16,8 @@ This repo provides the implementation of paper “An Efficient Video Watermark M
 >> Pages = {273 - 293},  
 >> Volume = {85},  
 >> Year = {2020}  
+>> URL = {https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S0307904X20302080&site=eds-live&authtype=ip,uid},  
+>> DOI = {10.1016/j.apm.2020.04.015}  
 > }  
 
 > @article{liu2022watermark-DWT&SVD-Blockchain,  
@@ -23,5 +25,6 @@ This repo provides the implementation of paper “An Efficient Video Watermark M
 >> Author = {Liu, Qingliang and Yang, Shuguo and Liu, Jing and Xiong, Pengcheng and Shen, Jun},  
 >> Journal = {Knowledge-Based Systems},   
 >> Year = {2022},  
->> Disposition = {Accept}
+>> URL = {https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S0950705122011595&site=eds-live&authtype=ip,uid},  
+>> DOI = {10.1016/j.knosys.2022.110066}  
 > }
